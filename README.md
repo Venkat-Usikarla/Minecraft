@@ -1,1 +1,1 @@
-This is a minecraft game build in python
+This is a minecraft game built in python
